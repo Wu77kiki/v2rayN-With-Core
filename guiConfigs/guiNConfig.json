@@ -1,7 +1,7 @@
 {
   "indexId": "4961290629263290953",
   "subIndexId": "5187729031984904739",
-  "sysProxyType": 0,
+  "sysProxyType": 1,
   "systemProxyExceptions": null,
   "systemProxyAdvancedProtocol": null,
   "runningCoreType": 2,
